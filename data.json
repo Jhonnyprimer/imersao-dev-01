@@ -1,0 +1,106 @@
+[
+  {
+    "nome": "Sigmund Freud",
+    "atuacao": "Psicanálise",
+    "descricao": "Fundador da psicanálise, conhecido por suas teorias sobre o inconsciente, os sonhos e o desenvolvimento psicossexual.",
+    "link": "https://pt.wikipedia.org/wiki/Sigmund_Freud",
+    "principais_teorias": ["Teoria do Inconsciente", "Estrutura da Personalidade (Id, Ego, Superego)", "Desenvolvimento Psicossexual"],
+    "imagem_url": "https://cdn.pixabay.com/photo/2016/01/21/14/26/sigmund-freud-1153858_1280.jpg"
+  },
+  {
+    "nome": "Carl Jung",
+    "atuacao": "Psicologia Analítica",
+    "descricao": "Fundador da psicologia analítica, introduziu conceitos como o inconsciente coletivo, arquétipos e os tipos psicológicos.",
+    "link": "https://pt.wikipedia.org/wiki/Carl_Jung",
+    "principais_teorias": ["Inconsciente Coletivo", "Arquétipos", "Tipos Psicológicos"],
+    "imagem_url": "https://www.jungiananalysts.org/img/jung.jpg"
+  },
+  {
+    "nome": "B. F. Skinner",
+    "atuacao": "Behaviorismo Radical",
+    "descricao": "Um dos principais expoentes do behaviorismo, desenvolveu a teoria do condicionamento operante.",
+    "link": "https://pt.wikipedia.org/wiki/B._F._Skinner",
+    "principais_teorias": ["Condicionamento Operante", "Behaviorismo Radical"],
+    "imagem_url": "https://institutodepsiquiatriapr.com.br/wp-content/uploads/2024/04/skinner-1024x759.jpg"
+  },
+  {
+    "nome": "Jean Piaget",
+    "atuacao": "Psicologia do Desenvolvimento",
+    "descricao": "Psicólogo suíço pioneiro no campo do desenvolvimento cognitivo, famoso por seus estudos sobre o desenvolvimento infantil.",
+    "link": "https://pt.wikipedia.org/wiki/Jean_Piaget",
+    "principais_teorias": ["Teoria do Desenvolvimento Cognitivo", "Epistemologia Genética"],
+    "imagem_url": "https://portalartmed-public.grupoa.education/artmed_blog/7cbe83e6-9009-4f7b-bab5-1e531dc40f79.webp"
+  },
+  {
+    "nome": "Carl Rogers",
+    "atuacao": "Psicologia Humanista",
+    "descricao": "Um dos fundadores da abordagem humanista, conhecido pela terapia centrada na pessoa e o conceito de auto-realização.",
+    "link": "https://pt.wikipedia.org/wiki/Carl_Rogers",
+    "principais_teorias": ["Abordagem Centrada na Pessoa", "Auto-Realização", "Consideração Positiva Incondicional"],
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Carl_Ransom_Rogers.jpg"
+  },
+  {
+    "nome": "Abraham Maslow",
+    "atuacao": "Psicologia Humanista",
+    "descricao": "Psicólogo americano conhecido pela Hierarquia das Necessidades de Maslow, uma teoria da motivação humana.",
+    "link": "https://pt.wikipedia.org/wiki/Abraham_Maslow",
+    "principais_teorias": ["Hierarquia das Necessidades", "Auto-Realização"],
+    "imagem_url": "https://poderdaescuta.com/wp-content/uploads/2022/03/abraham-maslow-poder-da-escuta1.jpg.webp"
+  },
+  {
+    "nome": "Ivan Pavlov",
+    "atuacao": "Condicionamento Clássico",
+    "descricao": "Fisiologista russo cujo trabalho sobre o condicionamento clássico foi fundamental para o desenvolvimento do behaviorismo.",
+    "link": "https://pt.wikipedia.org/wiki/Ivan_Pavlov",
+    "principais_teorias": ["Condicionamento Clássico"],
+    "imagem_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Ivan_Pavlov_nobel.jpg"
+  },
+  {
+    "nome": "Lev Vygotsky",
+    "atuacao": "Psicologia Sociocultural",
+    "descricao": "Psicólogo bielorrusso que desenvolveu a teoria sociocultural do desenvolvimento cognitivo, enfatizando a importância da interação social.",
+    "link": "https://pt.wikipedia.org/wiki/Lev_Vygotsky",
+    "principais_teorias": ["Teoria Sociocultural", "Zona de Desenvolvimento Proximal (ZDP)"],
+    "imagem_url": "https://thumbor.novaescola.org.br/dKDsoUlC96gaKVTbZACnIxTnRPo=/nova-escola-producao.s3.amazonaws.com/bEfDZ4fKF4EzWjTxYmCfnAQj65PpJ7hSXxgTaVrJRyGwg4tK6W2ScKdxX2yM/lev-vygotsky.jpg"
+  },
+  {
+    "nome": "Aaron Beck",
+    "atuacao": "Terapia Cognitivo-Comportamental (TCC)",
+    "descricao": "Considerado o pai da Terapia Cognitiva, desenvolveu um tratamento focado na reestruturação de pensamentos disfuncionais.",
+    "link": "https://pt.wikipedia.org/wiki/Aaron_Beck",
+    "principais_teorias": ["Terapia Cognitiva", "Tríade Cognitiva da Depressão"],
+    "imagem_url": "https://iptc.net.br/wp-content/uploads/2020/09/psicologo-aaron-beck.jpg"
+  },
+  {
+    "nome": "Albert Bandura",
+    "atuacao": "Teoria Social Cognitiva",
+    "descricao": "Conhecido por sua teoria da aprendizagem social e o conceito de autoeficácia, influenciando a transição do behaviorismo para a psicologia cognitiva.",
+    "link": "https://pt.wikipedia.org/wiki/Albert_Bandura",
+    "principais_teorias": ["Teoria da Aprendizagem Social", "Autoeficácia"],
+    "imagem_url": "https://educationaltechnology.net/wp-content/uploads/2019/12/albert-bandura.jpg"
+  },
+  {
+    "nome": "Melanie Klein",
+    "atuacao": "Psicanálise (Teoria das Relações Objetais)",
+    "descricao": "Psicanalista austro-britânica que foi uma figura central no desenvolvimento da teoria das relações objetais, com foco no mundo interno da criança.",
+    "link": "https://pt.wikipedia.org/wiki/Melanie_Klein",
+    "principais_teorias": ["Teoria das Relações Objetais", "Posição Esquizo-Paranóide", "Posição Depressiva"],
+    "imagem_url": "https://s2.glbimg.com/U3IRqs4CRjQ5sipCmIwUlF_aEV8=/e.glbimg.com/og/ed/f/original/2019/11/14/melanie_klein_1957.jpg"
+  },
+  {
+    "nome": "Wilhelm Wundt",
+    "atuacao": "Estruturalismo",
+    "descricao": "Médico e psicólogo alemão, frequentemente citado como o 'pai da psicologia moderna' por ter criado o primeiro laboratório de psicologia experimental.",
+    "link": "https://pt.wikipedia.org/wiki/Wilhelm_Wundt",
+    "principais_teorias": ["Estruturalismo", "Introspecção Experimental"],
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA90vUcA3I591Q4dDgb71fPbyryjEjGXKfFrCbmMxngISvz1z4Klip2gnxmoNfX77jbab4lHejzHy-CpRIa8NMHw3qNoI4NgVdDC5wN8M&s=10"
+  },
+  {
+    "nome": "William James",
+    "atuacao": "Funcionalismo",
+    "descricao": "Filósofo e psicólogo americano, um dos fundadores da psicologia funcionalista, que enfatiza o propósito da consciência e do comportamento.",
+    "link": "https://pt.wikipedia.org/wiki/William_James",
+    "principais_teorias": ["Funcionalismo", "Teoria da Emoção de James-Lange", "Fluxo de Consciência"],
+    "imagem_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGaOsBnou81edakB9KusH9RB3M5nPS9FyKqp_l0KPB6Q3_TQ0xeSa1-AzEOk2sztae1M8iCSFlENwXTXK77-2zp0Yx97o3VbIHmCFS3A&s=10"
+  }
+]
